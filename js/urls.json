@@ -1,0 +1,85 @@
+[{
+  "nombre": "Vue + firebase",
+  "img": "./img/vue_firebase.png",
+  "descripcion": "Pagina de registro de empleados hacia una bd de firebase",
+  "url": "https://github.com/Origaska/VueProyect",
+  "tecnologias": "Vuejs"
+},{
+  "nombre": "Herramientas Escritorio(servidor)",
+  "img": "./img/servidor.png",
+  "descripcion": "Servidor de la aplicación para controlar pc remota",
+  "url": "https://github.com/Origaska/servidor",
+  "tecnologias": "nodejs, express.js"
+},{
+  "nombre": "Herramientas Escritorio(cliente)",
+  "img": "./img/electron.png",
+  "descripcion": "Cliente de la aplicación para controlar pc remoto",
+  "url": "https://github.com/Origaska/cliente",
+  "tecnologias": "electronjs, HTML, CSS"
+},{
+  "nombre": "Civil Line",
+  "img": "./img/java-android.jpg",
+  "descripcion": "Aplicación Android para calcular curvas para trazo de carreteras",
+  "url": "https://github.com/Origaska/Civil-line",
+  "tecnologias": "Java"
+},{
+  "nombre": "SHF",
+  "img": "./img/java-android.jpg",
+  "descripcion": "Aplicación Android para monitorear sistema de llenado arduino",
+  "url": "https://github.com/Origaska/ProyectoSmartHF",
+  "tecnologias": "Java"
+},{
+  "nombre": "Registro Empleados",
+  "img": "./img/java-android.jpg",
+  "descripcion": "Aplicación para registro de empleados en Android y firebase",
+  "url": "https://github.com/Origaska/Registro-Empleados",
+  "tecnologias": "Java"
+},{
+  "nombre": "Tienda Matis",
+  "img": "./img/tienda.png",
+  "descripcion": "Aplicación web para el registro y ventas de productos en una tienda de abarrotes",
+  "url": "https://github.com/LucioHdz/tienda-matis",
+  "tecnologias": "PHP, HTML, SCSS"
+},{
+  "nombre": "Pixel-generator",
+  "img": "./img/pixgen.png",
+  "descripcion": "Aplicación para trazo de poligonos con pixeles",
+  "url": "https://github.com/LucioHdz/Pixel_Generator",
+  "tecnologias": "Python 3.x"
+},{
+  "nombre": "Poligonos",
+  "img": "./img/poligonos.png",
+  "descripcion": "Generador de poligonos de n lados",
+  "url": "https://github.com/LucioHdz/Poligonos",
+  "tecnologias": "Python 3.x"
+},{
+  "nombre": "Semaforo",
+  "img": "./img/semaforo.png",
+  "descripcion": "Semáforo para microcontrolado pic16f84a",
+  "url": "https://github.com/LucioHdz/semaforo",
+  "tecnologias": "C, Ensamblador"
+},{
+  "nombre": "ip-menu",
+  "img": "./img/ips.png",
+  "descripcion": "Herramientas de linux para administrar los bloqueos de ips en una red",
+  "url": "https://github.com/LucioHdz/ip_menu",
+  "tecnologias": "shell"
+},{
+  "nombre": "ip-block",
+  "img": "./img/block.png",
+  "descripcion": "Herramienta para bloquear un rango de ips",
+  "url": "https://github.com/LucioHdz/ip_block",
+  "tecnologias": "shell"
+},{
+  "nombre": "Carrera hilos",
+  "img": "./img/carrera.png",
+  "descripcion": "Aplicación para demostrar hilos en java",
+  "url": "https://github.com/LucioHdz/carrera",
+  "tecnologias": "Java"
+},{
+  "nombre": "Colas circulares",
+  "img": "./img/colas.png",
+  "descripcion": "Aplicación para demostrar el uso de una cola circular",
+  "url": "https://github.com/LucioHdz/ColasCirculares",
+  "tecnologias": "Java"
+}]

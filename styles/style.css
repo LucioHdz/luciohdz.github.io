@@ -1,0 +1,30 @@
+:root{--color-primary:rgba(158, 219, 255, 0.87);--color-header:rgba(0,0,0,0.8);--color-card:rgba(0,0,0,0.3);--color-content:rgba(87, 85, 85, 0.8);--color-text:white;--color-link:rgba(0, 162, 255, 0.87);--color-footer:rgba(3, 9, 97, 0.87)}
+*{font-family:Quicksand,sans-serif;margin:0;padding:0}
+body{background-image:url(../img/bg.jpg);background-repeat:no-repeat;background-attachment:fixed;display:flex;flex-direction:column;align-items:center}
+strong{color:var(--color-primary)}
+h2{text-align:left;width:100%;font-size:4rem;color:var(--color-primary);padding-bottom:2rem;padding-left:1rem;border-bottom:10px dotted var(--color-header)}
+.header{padding:1em;height:20em;width:90%;display:flex;flex-direction:column;align-items:center;background-color:var(--color-header)}
+.header__navegacion{width:100%;margin-bottom:6em}
+.header__navegacion__lista{width:100%;display:flex;justify-content:space-around}
+.header__navegacion__lista__item{list-style:none;padding-left:1em}
+.header__navegacion__lista__item--undec{color:var(--color-text);text-decoration:none}
+.header__titulo{font-family:Caveat,cursive;font-size:750%;color:var(--color-primary)}
+.content{width:90%;padding:1rem;padding-top:4rem;background-color:var(--color-content);color:var(--color-text)}
+.content__home{display:flex;justify-content:space-between;align-items:center;font-size:1.7rem;text-align:right;padding-bottom:4rem}
+.home__image{width:25rem;border-radius:50%;margin-left:3rem}
+#proyectos{display:flex;flex-direction:column;align-items:center;width:100%}
+.card{margin-top:2rem;width:65%;padding:1rem;border-radius:1rem;background-color:var(--color-header);display:flex}
+.card__image{width:45%;margin-right:2rem}
+.card__title{color:var(--color-primary)}
+.card__link{color:var(--color-link);text-decoration:none}
+.footer{display:flex;justify-content:space-between;text-align:justify;background-color:var(--color-footer)}
+.footer div{max-width:25%}
+@media (max-width:864px){
+.header{padding:3px;width:97.67%}
+.header__titulo{font-size:350%}
+.content__home{flex-direction:column}
+.home__image{width:75%;margin:0;margin-bottom:3rem}
+.card__image{display:none}
+.footer{flex-direction:column;align-items:center;}
+.footer div{max-width:80%;margin-bottom:3rem}
+}
